@@ -1,5 +1,5 @@
 import React from "react";
 
-const Content = () => <body>iFission's homepage</body>;
+const Content = () => "work-in-progress";
 
 export default Content;
